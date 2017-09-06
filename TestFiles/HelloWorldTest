@@ -1,5 +1,4 @@
 #file for testing github features
 
-print('hello world')
 
-print('goodnight Mike')
+print('goodnight Mike, it's starting to get late')
